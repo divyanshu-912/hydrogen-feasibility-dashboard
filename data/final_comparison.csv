@@ -1,0 +1,12 @@
+Parameter,H2_Retrofit,BEV
+Cost (initial),"Rs 1,300,000  (donor car + kit + certification)","Rs 1,030,000  (vehicle + home charger)"
+Operating cost,"Rs 9.38 / km  (Rs 112,560 per year)","Rs 3.53 / km  (Rs 42,402 per year)"
+5-year total cost,"Rs 1,862,800  (Rs 31.05 / km)","Rs 1,242,011  (Rs 20.70 / km)"
+Range,Approx 250-350 km - tank volume limited by the existing body,Approx 250-450 km on a full charge
+Refuelling / charging,Approx 5 minutes - the one clear advantage,45-60 min DC fast charge; 6-8 h home AC charge
+Energy efficiency (well-to-wheel),14.3 %  (H2-ICE retrofit),70.2 %
+Safety,700-bar storage in a body never crash-certified for it; wide flammability range; invisible flame; leak-prone; needs continuous H2 sensing,Thermal runaway is the main hazard; packs are type-approved and crash-tested; managed by a BMS
+Infrastructure,1 public dispenser in India; 16 stations sanctioned; target approx 100 by 2030,"Approx 27,700 public charge points installed (22,700 operational); home charging available"
+Retrofit complexity,"Very high - fuel system, tank mounting, ECU remap, fresh homologation; no CMVR route exists for private cars","Not applicable - bought as a finished, type-approved vehicle"
+Overall feasibility score,3.40 / 10,6.95 / 10
+VERDICT,"NOT FEASIBLE under the considered technical, economic, safety and infrastructure conditions",Feasible and the practical choice today
